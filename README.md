@@ -1,16 +1,30 @@
 # textfields
 
-A new Flutter project.
+Different types of textfield for flutter projects,
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In lib folder have reusable_form_fields.dart names file, just add in your project then use it different types of textfield in your flutter project, it's helping for developers, 
 
-A few resources to get you started if this is your first Flutter project:
+all this type of design,
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  1) material,
+  2) outlined,
+  3) underlined,
+  4) rounded,
+  5) filled,
+  6) gradient,
+  7) shadow,
+  8) neumorphic,
+  9) modern,
+  10) vintage,
+  11) minimal
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I try to cover all basic designs, and how to use it to check out main.dart files in this file all textfield calling,
+
+![Capture](https://github.com/user-attachments/assets/ab92dbce-39e6-4379-b806-051a0784013f)
+
+
+if you think need to improve more please tell me i try my best in flutter, 
+
+
